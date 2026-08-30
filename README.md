@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/tenjeeb-kc">LinkedIn</a>
-  ·
+  /
   <a href="mailto:tenjeebkc@gmail.com">Email</a>
 </p>
 
