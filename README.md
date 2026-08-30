@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m a Software Engineer and Full-Stack Developer who enjoys building practical web applications and AI-powered solutions. I work across frontend, backend, databases, and have a strong foundation in networking and cybersecurity.
 
 
