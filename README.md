@@ -1,28 +1,19 @@
 <h1 align="center">Hi, I'm Tenjeeb K.C. 👋</h1>
-<h3 align="center">Software Engineer · Full-Stack Developer · AI & Security Enthusiast</h3>
+<h3 align="center">Software Engineer · Full-Stack Developer · AI Developer</h3>
 
 <p align="center">
-  Building practical web applications and AI-powered tools, with a foundation in networking and cybersecurity.
+  Building practical web applications, full-stack systems, and AI-powered tools with a strong foundation in networking and cybersecurity.
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/tenjeeb-kc">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:tenjeebkc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
 
 ---
 
 ### 🧭 About Me
 
 - 🎓 Currently pursuing an **MSc in Software Engineering** at Islington College (London Metropolitan University)
-- 🔐 Background in **networking & IT security** (BSc Hons, Networking and IT Security)
-- 🛡️ Former **Cybersecurity Intern** at Moru Digital Wallet — worked on secure payment systems and user cyber-hygiene
-- 🤖 Currently building **RAG-based AI applications** with LangChain, ChromaDB, and local LLMs (Ollama)
-- 🌱 Always exploring the intersection of **web development, AI, and security**
+- 💻 Focused on full-stack web development, building applications across frontend, backend, APIs and databases
+- 🔐 BSc Hons background in Networking and IT Security, with practical cybersecurity experience
+- 🌱 Always exploring and learning new techonolgies
 
 ---
 
@@ -56,6 +47,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<p align="center">
+  <a href="https://linkedin.com/in/tenjeeb-kc">LinkedIn</a>
+  ·
+  <a href="mailto:tenjeebkc@gmail.com">Email</a>
+</p>
 
 
 <p align="center">
