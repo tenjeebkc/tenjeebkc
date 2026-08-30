@@ -49,9 +49,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <p align="center">
-  <a href="https://linkedin.com/in/tenjeeb-kc">LinkedIn</a>
-  ·
-  <a href="mailto:tenjeebkc@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/tenjeeb-kc">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tenjeebkc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 
