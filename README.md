@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tenjeeb K.C. 👋</h1>
-<h3 align="center">Software Engineer · Full-Stack Developer · AI Developer</h3>
+<h3 align="center">Software Engineer · Full-Stack Developer</h3>
 
 <p align="center">
   Building practical web applications, full-stack systems, and AI-powered tools with a strong foundation in networking and cybersecurity.
