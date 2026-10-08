@@ -12,7 +12,7 @@
 
 - 🎓 Currently pursuing an **MSc in Software Engineering** at Islington College (London Metropolitan University)
 - 💻 Focused on full-stack web development, building applications across frontend, backend, APIs and databases
-- 🔐 BSc Hons background in Networking and IT Security, with practical cybersecurity experience
+- 🔐 BSc Hons background in Networking and IT Security
 - 🌱 Always exploring and learning new techonolgies
 
 ---
