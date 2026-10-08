@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer · Full-Stack Developer</h3>
 
 <p align="center">
-  Building practical web applications and full-stack systems with a strong foundation in networking and cybersecurity
+  Building practical web applications and full-stack systems with a strong foundation in networking and cybersecurity.
 </p>
 
 
@@ -54,5 +54,5 @@
 
 
 <p align="center">
-  <em>Open to opportunities in software engineering, frontend development, backend development, and full-stack development</em>
+  <em>Open to opportunities in software engineering, frontend development, backend development, and full-stack development.</em>
 </p>
