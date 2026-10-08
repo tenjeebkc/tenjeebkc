@@ -54,5 +54,5 @@
 
 
 <p align="center">
-  <em>Open to opportunities in software engineering, full-stack development, and applied AI.</em>
+  <em>Open to opportunities in software engineering, frontend development, backend development, and full-stack development</em>
 </p>
